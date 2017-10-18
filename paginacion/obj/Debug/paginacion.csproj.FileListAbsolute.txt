@@ -1,0 +1,13 @@
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\bin\Debug\paginacion.exe.config
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\bin\Debug\paginacion.exe
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\bin\Debug\paginacion.pdb
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\bin\Debug\MySql.Data.dll
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\bin\Debug\PagedList.dll
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\bin\Debug\MySql.Data.xml
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\bin\Debug\PagedList.xml
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\obj\Debug\paginacion.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\obj\Debug\paginacion.Form1.resources
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\obj\Debug\paginacion.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\obj\Debug\paginacion.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\obj\Debug\paginacion.exe
+C:\Users\Gonzalo\Desktop\paginacion\paginacion\obj\Debug\paginacion.pdb
